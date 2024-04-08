@@ -1,0 +1,1 @@
+json-server --watch dien_tu.json --port 5000

@@ -1,0 +1,12 @@
+làm 1 trang web review rồi mã hoá nó dưới dạng số để xét đánh giá tích cực (kiểu đánh giá theo sao)
+- source: python
+- thư viện: flash K ? 
+- tích hợp AI (phobet - VinAI) https://github.com/wonrax/phobert-base-vietnamese-sentiment?tab=readme-ov-file
+
+Thông số các chart
+- DataTable Chart
+	+ Hiển thị danh sách các sản phẩm cùng các thông số đi kèm (tên sp, giá tiền, pos, neg, neu)(folder summary)
+- Pie Chart	
+	+ Hiển thị thông số trung bình của shop đó (file final.json)
+- Bar Chart
+	+ Hiển thị thông số trung bình của shop theo tháng (sắp xếp theo tứ tự từ quá khứ - hiện tại) (folder growth)

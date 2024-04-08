@@ -1,0 +1,6 @@
+file_name: input_5_summary.json
+product_name: Nho xanh không hạt Mỹ - 1kg
+price: 329000
+average_positive: 0.91958087682724
+average_negative: 0.007941917516291142
+average_neutral: 0.07247722148895264

@@ -1,0 +1,6 @@
+file_name: input_2_summary.json
+product_name: Táo xanh Mỹ - 1kg
+price: 139000
+average_positive: 0.7249405288152517
+average_negative: 0.14098561401929585
+average_neutral: 0.13407385685751516

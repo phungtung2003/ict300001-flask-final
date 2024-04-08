@@ -1,0 +1,16 @@
+﻿Install:
+
+python3 -m pip install requests
+
+python3 -m pip install pandas
+
+python3 -m pip install tqdm
+python3 -m pip install transformers
+
+python3 -m pip install torch
+
+
+How to change crawl website:
+
+crawl_comment.py -> change the cookies = {
+

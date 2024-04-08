@@ -1,0 +1,39 @@
+﻿Install: (Window)
+
+python3 -m pip install requests
+
+python3 -m pip install pandas
+
+python3 -m pip install tqdm
+python3 -m pip install transformers
+
+python3 -m pip install torch
+
+
+
+
+
+How to crawl website:
+
+Step 1: On Tiki, change to a new product page -> Right click + Inspect -> Network -> Ctrl + R -> C???? (???? being 4 numbers)
+
+Step 2: crawl_comment.py -> change the:
+
+cookies = {     'TIKI_GUEST_TOKEN': .....
+
+How to put result into summary folder:
+
+Step 3: run index_rating.py
+Step 4: run combine.py
+Step 5: Go to "\ict300001 flask final\flask-sb-admin-master reworked\apps\summary\run.bat" and change "product.json" into the new json file there
+
+How to run Flask:
+Step 6: In the same folder, double click "Run.bat"
+Step 7: Go to "D:\ict300001 flask final\flask-sb-admin-master reworked\apps\static\assets\demo" then run "pie-chart.py" and "bar-chart.py" in Terminal
+Step 8: Go back to "\ict300001 flask final\flask-sb-admin-master reworked", type "Flask run" in Terminal
+
+On Flask: 
+Step 9: Copy Paste a Product name into the blank next to "Enter text" and click Submit to start the specific product analysis process
+Step 10: Reload to see the chart result
+Step 11: On the left Navigation bar, click "Chart" to see more clearly the charts being displayed
+Step 12: On the left Navigation bar, click "Table" to inspect the tables and be able to Search and reorganize the table for specific criterias

@@ -1,0 +1,60 @@
+{
+    "data": [
+    {
+        "product_name": "\u0110i\u1ec7n tho\u1ea1i OPPO A57 4GB/128GB V\u00e0ng - H\u00e0ng ch\u00ednh h\u00e3ng",
+        "price": 8729000,
+        "average_positive": 0.8360330188879743,
+        "average_negative": 0.08205079077742994,
+        "average_neutral": 0.08191619363899988
+    },
+    {
+        "product_name": "Apple iPad mini (6th Gen) Wi-Fi, 2021",
+        "price": 23251000,
+        "average_positive": 0.7541450412461052,
+        "average_negative": 0.12727153889351972,
+        "average_neutral": 0.11858342239564215
+    },
+    {
+        "product_name": "Dell 14 inch",
+        "price": 18680000,
+        "average_positive": 0.6049205962946583,
+        "average_negative": 0.23019236322183456,
+        "average_neutral": 0.16488704640455176
+    },
+    {
+        "product_name": "M\u00e1y t\u00ednh b\u1ea3ng Edutab 10.1 Pro & Case",
+        "price": 10415000,
+        "average_positive": 0.7249405288152517,
+        "average_negative": 0.14098561401929585,
+        "average_neutral": 0.13407385685751516
+    },
+    {
+        "product_name": "M\u00e1y \u0111\u1ecdc s\u00e1ch All New Kindle Paperwhite 5 (11th Gen) - H\u00e0ng nh\u1eadp kh\u1ea9u",
+        "price": 7071000,
+        "average_positive": 0.8360330188879743,
+        "average_negative": 0.08205079077742994,
+        "average_neutral": 0.08191619363899988
+    },
+    {
+        "product_name": "\u0110i\u1ec7n tho\u1ea1i ch\u00ednh h\u00e3ng Panasonic KX-TSC11",
+        "price": 14024000,
+        "average_positive": 0.7220333891304871,
+        "average_negative": 0.1725959290502473,
+        "average_neutral": 0.10537068837232166
+    },
+    {
+        "product_name": "\u0110i\u1ec7n tho\u1ea1i Samsung Galaxy S24 Ultra 5G",
+        "price": 22106000,
+        "average_positive": 0.7567813644681366,
+        "average_negative": 0.14212588555810432,
+        "average_neutral": 0.10109275477307458
+    },
+    {
+        "product_name": "\u0110i\u1ec7n tho\u1ea1i Xiaomi Redmi 9A",
+        "price": 19551000,
+        "average_positive": 0.7220333891304871,
+        "average_negative": 0.1725959290502473,
+        "average_neutral": 0.10537068837232166
+    }
+]
+}

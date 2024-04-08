@@ -1,0 +1,184 @@
+[
+    {
+        "product_name": "input_1",
+        "price": 13872000,
+        "positive": 0.9897961020469666,
+        "negative": 0.0021286080591380596,
+        "neutral": 0.00807532574981451
+    },
+    {
+        "product_name": "input_1",
+        "price": 22162000,
+        "positive": 0.992917537689209,
+        "negative": 0.0017683625919744372,
+        "neutral": 0.005314075853675604
+    },
+    {
+        "product_name": "input_1",
+        "price": 5025000,
+        "positive": 0.9923807978630066,
+        "negative": 0.0017296981532126665,
+        "neutral": 0.005889535415917635
+    },
+    {
+        "product_name": "input_1",
+        "price": 27786000,
+        "positive": 0.9926162362098694,
+        "negative": 0.0015612597344443202,
+        "neutral": 0.0058225346729159355
+    },
+    {
+        "product_name": "input_1",
+        "price": 29890000,
+        "positive": 0.991395890712738,
+        "negative": 0.001517803524620831,
+        "neutral": 0.00708624767139554
+    },
+    {
+        "product_name": "input_1",
+        "price": 14754000,
+        "positive": 0.9592727422714233,
+        "negative": 0.0052079749293625355,
+        "neutral": 0.0355193093419075
+    },
+    {
+        "product_name": "input_1",
+        "price": 18165000,
+        "positive": 0.9920604228973389,
+        "negative": 0.0025118524208664894,
+        "neutral": 0.00542764225974679
+    },
+    {
+        "product_name": "input_1",
+        "price": 12915000,
+        "positive": 0.9206064939498901,
+        "negative": 0.026969028636813164,
+        "neutral": 0.05242450535297394
+    },
+    {
+        "product_name": "input_1",
+        "price": 13652000,
+        "positive": 0.9928873181343079,
+        "negative": 0.0019446101505309343,
+        "neutral": 0.005168164614588022
+    },
+    {
+        "product_name": "input_1",
+        "price": 16436000,
+        "positive": 0.389375239610672,
+        "negative": 0.029223870486021042,
+        "neutral": 0.5814008712768555
+    },
+    {
+        "product_name": "input_1",
+        "price": 28228000,
+        "positive": 0.9915410876274109,
+        "negative": 0.0015910944202914834,
+        "neutral": 0.006867788266390562
+    },
+    {
+        "product_name": "input_1",
+        "price": 27419000,
+        "positive": 0.9913023710250854,
+        "negative": 0.0014885247219353914,
+        "neutral": 0.0072091445326805115
+    },
+    {
+        "product_name": "input_1",
+        "price": 10087000,
+        "positive": 0.0035689978394657373,
+        "negative": 0.9868840575218201,
+        "neutral": 0.009546929970383644
+    },
+    {
+        "product_name": "input_1",
+        "price": 19137000,
+        "positive": 0.9784462451934814,
+        "negative": 0.0026980903930962086,
+        "neutral": 0.018855620175600052
+    },
+    {
+        "product_name": "input_1",
+        "price": 28561000,
+        "positive": 0.6033890843391418,
+        "negative": 0.02229144796729088,
+        "neutral": 0.3743194341659546
+    },
+    {
+        "product_name": "input_1",
+        "price": 18697000,
+        "positive": 0.9813122153282166,
+        "negative": 0.00547970412299037,
+        "neutral": 0.01320819091051817
+    },
+    {
+        "product_name": "input_1",
+        "price": 20744000,
+        "positive": 0.9892347455024719,
+        "negative": 0.002858057850971818,
+        "neutral": 0.007907219231128693
+    },
+    {
+        "product_name": "input_1",
+        "price": 15957000,
+        "positive": 0.9913502931594849,
+        "negative": 0.0014761238126084208,
+        "neutral": 0.007173479534685612
+    },
+    {
+        "product_name": "input_1",
+        "price": 28953000,
+        "positive": 0.989702582359314,
+        "negative": 0.002795126987621188,
+        "neutral": 0.007502359338104725
+    },
+    {
+        "product_name": "input_1",
+        "price": 29375000,
+        "positive": 0.9920104742050171,
+        "negative": 0.001455746591091156,
+        "neutral": 0.006533789448440075
+    },
+    {
+        "product_name": "input_1",
+        "price": 24380000,
+        "positive": 0.992901623249054,
+        "negative": 0.0016836704453453422,
+        "neutral": 0.005414600018411875
+    },
+    {
+        "product_name": "input_1",
+        "price": 8258000,
+        "positive": 0.9885640144348145,
+        "negative": 0.0023298391606658697,
+        "neutral": 0.009106144309043884
+    },
+    {
+        "product_name": "input_1",
+        "price": 27678000,
+        "positive": 0.9846210479736328,
+        "negative": 0.0034152057487517595,
+        "neutral": 0.011963835917413235
+    },
+    {
+        "product_name": "input_1",
+        "price": 15713000,
+        "positive": 0.9750324487686157,
+        "negative": 0.007956043817102909,
+        "neutral": 0.017011484131217003
+    },
+    {
+        "product_name": "input_1",
+        "price": 27281000,
+        "positive": 0.011481354013085365,
+        "negative": 0.9565993547439575,
+        "neutral": 0.031919363886117935
+    },
+    {
+        "product_name": "input_1",
+        "price": 24340000,
+        "positive": 0.059091124683618546,
+        "negative": 0.057755403220653534,
+        "neutral": 0.8831534385681152
+    }
+]

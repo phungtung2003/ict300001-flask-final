@@ -1,0 +1,6 @@
+file_name: input_4_summary.json
+product_name: Giỏ Quả Trái Cây Nhập Khẩu - Cỡ bé
+price: 399000
+average_positive: 0.00610581086948514
+average_negative: 0.9832445383071899
+average_neutral: 0.010649672709405422

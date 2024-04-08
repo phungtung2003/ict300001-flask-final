@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Save Input to File</title>
+</head>
+<body>
+  <input class="form-control" id="searchInput" type="text" placeholder="Search for..." aria-label="Search for..." aria-describedby="btnNavbarSearch" />
+  <button class="btn btn-primary" id="btnNavbarSearch" type="button"><i class="fas fa-search"></i> Save to File</button>
+
+  <script>
+    document.getElementById('btnNavbarSearch').addEventListener('click', function() {
+      // Get the value of the input field
+      var inputValue = document.getElementById('searchInput').value;
+
+      // Create a blob with the input value
+      var blob = new Blob([inputValue], { type: 'text/plain' });
+
+      // Create a link element
+      var link = document.createElement('a');
+      link.download = 'search_data.txt'; // Set the filename for the file
+      link.href = window.URL.createObjectURL(blob);
+
+      // Append the link to the body
+      document.body.appendChild(link);
+
+      // Trigger the click event of the link
+      link.click();
+
+      // Clean up
+      document.body.removeChild(link);
+    });
+  </script>
+</body>
+</html>

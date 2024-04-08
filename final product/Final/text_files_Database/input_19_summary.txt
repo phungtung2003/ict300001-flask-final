@@ -1,0 +1,6 @@
+file_name: input_19_summary.json
+product_name: Cherry Úc/New Zealand
+price: 779000
+average_positive: 0.9918387532234192
+average_negative: 0.0018784141866490245
+average_neutral: 0.0062828101217746735

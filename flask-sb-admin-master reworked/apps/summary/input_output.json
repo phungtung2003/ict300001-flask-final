@@ -1,0 +1,711 @@
+{
+    "data": [
+        {
+            "product_name": "Dell 14 inch",
+            "price": 24144264,
+            "average_positive": 0.00610581086948514,
+            "average_negative": 0.9832445383071899,
+            "average_neutral": 0.010649672709405422
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 13845787,
+            "average_positive": 0.9928592443466187,
+            "average_negative": 0.0016435147263109684,
+            "average_neutral": 0.005497252102941275
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 18291410,
+            "average_positive": 0.992931604385376,
+            "average_negative": 0.0018554400885477662,
+            "average_neutral": 0.005212998948991299
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 6988645,
+            "average_positive": 0.9928606152534485,
+            "average_negative": 0.001736247562803328,
+            "average_neutral": 0.005403115879744291
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20102207,
+            "average_positive": 0.9928223490715027,
+            "average_negative": 0.0016310771461576223,
+            "average_neutral": 0.005546685308218002
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 28271617,
+            "average_positive": 0.91958087682724,
+            "average_negative": 0.007941917516291142,
+            "average_neutral": 0.07247722148895264
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 27511213,
+            "average_positive": 0.9907463788986206,
+            "average_negative": 0.0029474005568772554,
+            "average_neutral": 0.006306190975010395
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 7828375,
+            "average_positive": 0.9872046709060669,
+            "average_negative": 0.003788774600252509,
+            "average_neutral": 0.009006624110043049
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 8150416,
+            "average_positive": 0.9922404289245605,
+            "average_negative": 0.002092314651235938,
+            "average_neutral": 0.005667240358889103
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20244659,
+            "average_positive": 0.9920255541801453,
+            "average_negative": 0.0016243008431047201,
+            "average_neutral": 0.006350086070597172
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 9913302,
+            "average_positive": 0.9928637146949768,
+            "average_negative": 0.0017141938442364335,
+            "average_neutral": 0.005422172602266073
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 11187863,
+            "average_positive": 0.9929516911506653,
+            "average_negative": 0.0018313125474378467,
+            "average_neutral": 0.005216956604272127
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 24576868,
+            "average_positive": 0.07671651989221573,
+            "average_negative": 0.27715709805488586,
+            "average_neutral": 0.6461263298988342
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 9580243,
+            "average_positive": 0.9863389730453491,
+            "average_negative": 0.0022323052398860455,
+            "average_neutral": 0.011428753845393658
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 25071881,
+            "average_positive": 0.360687792301178,
+            "average_negative": 0.21788734197616577,
+            "average_neutral": 0.42142486572265625
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 25025496,
+            "average_positive": 0.5306688547134399,
+            "average_negative": 0.02815299853682518,
+            "average_neutral": 0.44117817282676697
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 22143141,
+            "average_positive": 0.9918387532234192,
+            "average_negative": 0.0018784141866490245,
+            "average_neutral": 0.0062828101217746735
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 28401014,
+            "average_positive": 0.9912092685699463,
+            "average_negative": 0.00214094459079206,
+            "average_neutral": 0.006649766117334366
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20835752,
+            "average_positive": 0.9927133917808533,
+            "average_negative": 0.0022000574972480536,
+            "average_neutral": 0.005086546763777733
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 24464383,
+            "average_positive": 0.97699373960495,
+            "average_negative": 0.0018470927607268095,
+            "average_neutral": 0.021159207448363304
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 10061926,
+            "average_positive": 0.9929304122924805,
+            "average_negative": 0.0019043110078200698,
+            "average_neutral": 0.005165277048945427
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 28079907,
+            "average_positive": 0.9929348826408386,
+            "average_negative": 0.0019398392178118229,
+            "average_neutral": 0.005125247873365879
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 25962876,
+            "average_positive": 0.0956643745303154,
+            "average_negative": 0.08017860352993011,
+            "average_neutral": 0.8241569995880127
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 10615699,
+            "average_positive": 0.9865140318870544,
+            "average_negative": 0.003035950940102339,
+            "average_neutral": 0.010449950583279133
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20197320,
+            "average_positive": 0.9633029699325562,
+            "average_negative": 0.008594619110226631,
+            "average_neutral": 0.028102492913603783
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 9121741,
+            "average_positive": 0.0764637142419815,
+            "average_negative": 0.03143042325973511,
+            "average_neutral": 0.8921058773994446
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 6140781,
+            "average_positive": 0.15049374103546143,
+            "average_negative": 0.02181972935795784,
+            "average_neutral": 0.8276865482330322
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 16734219,
+            "average_positive": 0.00924490112811327,
+            "average_negative": 0.9441052079200745,
+            "average_neutral": 0.046649858355522156
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 17163768,
+            "average_positive": 0.972936749458313,
+            "average_negative": 0.002931528026238084,
+            "average_neutral": 0.024131808429956436
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 7269699,
+            "average_positive": 0.99290931224823,
+            "average_negative": 0.0018281162483617663,
+            "average_neutral": 0.005262610036879778
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 13973537,
+            "average_positive": 0.9923382997512817,
+            "average_negative": 0.0020132772624492645,
+            "average_neutral": 0.005648433230817318
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 8331724,
+            "average_positive": 0.9924112558364868,
+            "average_negative": 0.0019738401751965284,
+            "average_neutral": 0.005615027155727148
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 29360078,
+            "average_positive": 0.5471900701522827,
+            "average_negative": 0.010924695059657097,
+            "average_neutral": 0.44188517332077026
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 19907612,
+            "average_positive": 0.06978841125965118,
+            "average_negative": 0.13928839564323425,
+            "average_neutral": 0.7909231781959534
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 17315131,
+            "average_positive": 0.9921603798866272,
+            "average_negative": 0.0020722628105431795,
+            "average_neutral": 0.005767338443547487
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 22930157,
+            "average_positive": 0.008871195837855339,
+            "average_negative": 0.9519165754318237,
+            "average_neutral": 0.03921223431825638
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 10364554,
+            "average_positive": 0.4190062880516052,
+            "average_negative": 0.04981139674782753,
+            "average_neutral": 0.5311823487281799
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 13312781,
+            "average_positive": 0.08729401230812073,
+            "average_negative": 0.5386884212493896,
+            "average_neutral": 0.3740175664424896
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 15674709,
+            "average_positive": 0.9750087857246399,
+            "average_negative": 0.002540555549785495,
+            "average_neutral": 0.022450633347034454
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 26527310,
+            "average_positive": 0.004329510498791933,
+            "average_negative": 0.9872944951057434,
+            "average_neutral": 0.008375930599868298
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 27750847,
+            "average_positive": 0.004173023160547018,
+            "average_negative": 0.9837499260902405,
+            "average_neutral": 0.012077007442712784
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20093440,
+            "average_positive": 0.992901623249054,
+            "average_negative": 0.0019440207397565246,
+            "average_neutral": 0.005154397804290056
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 11210228,
+            "average_positive": 0.1373414844274521,
+            "average_negative": 0.03952780365943909,
+            "average_neutral": 0.8231306672096252
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 11121173,
+            "average_positive": 0.9896596074104309,
+            "average_negative": 0.0014885885175317526,
+            "average_neutral": 0.008851729333400726
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 29059764,
+            "average_positive": 0.044449616223573685,
+            "average_negative": 0.4512086510658264,
+            "average_neutral": 0.5043417811393738
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 6878934,
+            "average_positive": 0.9928510189056396,
+            "average_negative": 0.0017291015246883035,
+            "average_neutral": 0.0054198880679905415
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 6170505,
+            "average_positive": 0.10701140016317368,
+            "average_negative": 0.22893032431602478,
+            "average_neutral": 0.6640582084655762
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20867107,
+            "average_positive": 0.7829620242118835,
+            "average_negative": 0.03024180233478546,
+            "average_neutral": 0.186796173453331
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 28622431,
+            "average_positive": 0.0492776483297348,
+            "average_negative": 0.050968658179044724,
+            "average_neutral": 0.8997536897659302
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 5408443,
+            "average_positive": 0.9928659200668335,
+            "average_negative": 0.001776000834070146,
+            "average_neutral": 0.005358112044632435
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 15711714,
+            "average_positive": 0.4436737895011902,
+            "average_negative": 0.036264218389987946,
+            "average_neutral": 0.5200619697570801
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 16731129,
+            "average_positive": 0.18298588693141937,
+            "average_negative": 0.040436211973428726,
+            "average_neutral": 0.7765779495239258
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 18551732,
+            "average_positive": 0.9928154945373535,
+            "average_negative": 0.0016184545820578933,
+            "average_neutral": 0.0055660041980445385
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 29455673,
+            "average_positive": 0.12801161408424377,
+            "average_negative": 0.08333797007799149,
+            "average_neutral": 0.7886504530906677
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20590257,
+            "average_positive": 0.9928897619247437,
+            "average_negative": 0.001970981014892459,
+            "average_neutral": 0.005139289889484644
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 29473293,
+            "average_positive": 0.9922105073928833,
+            "average_negative": 0.0019919767510145903,
+            "average_neutral": 0.0057975552044808865
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 9473848,
+            "average_positive": 0.9897017478942871,
+            "average_negative": 0.0014475935604423285,
+            "average_neutral": 0.008850603364408016
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 18874978,
+            "average_positive": 0.008404293097555637,
+            "average_negative": 0.9613641500473022,
+            "average_neutral": 0.030231542885303497
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 25199977,
+            "average_positive": 0.9659584164619446,
+            "average_negative": 0.004705826286226511,
+            "average_neutral": 0.029335852712392807
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 18348525,
+            "average_positive": 0.9924888610839844,
+            "average_negative": 0.0022085898090153933,
+            "average_neutral": 0.005302597768604755
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 10954788,
+            "average_positive": 0.99290931224823,
+            "average_negative": 0.001773464260622859,
+            "average_neutral": 0.005317225586622953
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 9991964,
+            "average_positive": 0.9919142723083496,
+            "average_negative": 0.0016512821894139051,
+            "average_neutral": 0.0064344145357608795
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 23773589,
+            "average_positive": 0.9925355911254883,
+            "average_negative": 0.001486796187236905,
+            "average_neutral": 0.005977651569992304
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 11069038,
+            "average_positive": 0.004104028921574354,
+            "average_negative": 0.980248749256134,
+            "average_neutral": 0.01564721204340458
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 12534781,
+            "average_positive": 0.9928808212280273,
+            "average_negative": 0.0019509921548888087,
+            "average_neutral": 0.005168214440345764
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 5666561,
+            "average_positive": 0.9928796887397766,
+            "average_negative": 0.0016895177541300654,
+            "average_neutral": 0.005430832505226135
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20656527,
+            "average_positive": 0.9775770306587219,
+            "average_negative": 0.005658348090946674,
+            "average_neutral": 0.01676473207771778
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 6539769,
+            "average_positive": 0.004494003020226955,
+            "average_negative": 0.9879046082496643,
+            "average_neutral": 0.0076014031656086445
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 13927628,
+            "average_positive": 0.9889973402023315,
+            "average_negative": 0.0014371825382113457,
+            "average_neutral": 0.00956555362790823
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 23049986,
+            "average_positive": 0.29254525899887085,
+            "average_negative": 0.019595643505454063,
+            "average_neutral": 0.687859058380127
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 21718005,
+            "average_positive": 0.9919187426567078,
+            "average_negative": 0.0016922553768381476,
+            "average_neutral": 0.006389118731021881
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 25520635,
+            "average_positive": 0.004852945450693369,
+            "average_negative": 0.9793212413787842,
+            "average_neutral": 0.015825863927602768
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 18063771,
+            "average_positive": 0.17738912999629974,
+            "average_negative": 0.0842767134308815,
+            "average_neutral": 0.7383341789245605
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 17964039,
+            "average_positive": 0.992908239364624,
+            "average_negative": 0.0017046977300196886,
+            "average_neutral": 0.005387100391089916
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 10954777,
+            "average_positive": 0.9929094910621643,
+            "average_negative": 0.001726561808027327,
+            "average_neutral": 0.005363953299820423
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 12224109,
+            "average_positive": 0.9626622200012207,
+            "average_negative": 0.0024814531207084656,
+            "average_neutral": 0.03485632687807083
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 13289518,
+            "average_positive": 0.9928752183914185,
+            "average_negative": 0.001784061430953443,
+            "average_neutral": 0.005340709816664457
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 16256165,
+            "average_positive": 0.8737127780914307,
+            "average_negative": 0.05878283083438873,
+            "average_neutral": 0.0675044059753418
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 12834461,
+            "average_positive": 0.004189261235296726,
+            "average_negative": 0.9877752065658569,
+            "average_neutral": 0.008035526610910892
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 26842005,
+            "average_positive": 0.9881327748298645,
+            "average_negative": 0.003414999460801482,
+            "average_neutral": 0.008452286012470722
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 22675258,
+            "average_positive": 0.12295534461736679,
+            "average_negative": 0.03266734257340431,
+            "average_neutral": 0.8443772792816162
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 28247179,
+            "average_positive": 0.9555806517601013,
+            "average_negative": 0.0034970606211572886,
+            "average_neutral": 0.04092228785157204
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 16828652,
+            "average_positive": 0.9558490514755249,
+            "average_negative": 0.002455544425174594,
+            "average_neutral": 0.041695427149534225
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 20667579,
+            "average_positive": 0.992924690246582,
+            "average_negative": 0.0017457016510888934,
+            "average_neutral": 0.005329603794962168
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 8184403,
+            "average_positive": 0.5471900701522827,
+            "average_negative": 0.010924695059657097,
+            "average_neutral": 0.44188517332077026
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 8141175,
+            "average_positive": 0.02483551949262619,
+            "average_negative": 0.9319531321525574,
+            "average_neutral": 0.043211378157138824
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 12448855,
+            "average_positive": 0.8894286155700684,
+            "average_negative": 0.04925479367375374,
+            "average_neutral": 0.061316631734371185
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 5104056,
+            "average_positive": 0.3899582624435425,
+            "average_negative": 0.049149174243211746,
+            "average_neutral": 0.560892641544342
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 16401876,
+            "average_positive": 0.011670657433569431,
+            "average_negative": 0.9142364859580994,
+            "average_neutral": 0.07409275323152542
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 19884544,
+            "average_positive": 0.14407438039779663,
+            "average_negative": 0.21133409440517426,
+            "average_neutral": 0.6445915699005127
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 8265967,
+            "average_positive": 0.004419864155352116,
+            "average_negative": 0.9840569496154785,
+            "average_neutral": 0.01152319461107254
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 29107646,
+            "average_positive": 0.004372041672468185,
+            "average_negative": 0.9878233671188354,
+            "average_neutral": 0.0078046140260994434
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 25560626,
+            "average_positive": 0.004565089009702206,
+            "average_negative": 0.9879267811775208,
+            "average_neutral": 0.007508131209760904
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 17152216,
+            "average_positive": 0.007722129113972187,
+            "average_negative": 0.9602480530738831,
+            "average_neutral": 0.03202974051237106
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 29125074,
+            "average_positive": 0.0041175358928740025,
+            "average_negative": 0.9881224036216736,
+            "average_neutral": 0.0077600302174687386
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 16892580,
+            "average_positive": 0.9661149382591248,
+            "average_negative": 0.009130232036113739,
+            "average_neutral": 0.024754785001277924
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 10700732,
+            "average_positive": 0.017678912729024887,
+            "average_negative": 0.8041811585426331,
+            "average_neutral": 0.17813991010189056
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 22360498,
+            "average_positive": 0.004038357641547918,
+            "average_negative": 0.9880555272102356,
+            "average_neutral": 0.007906113751232624
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 11610698,
+            "average_positive": 0.008938022889196873,
+            "average_negative": 0.9530277848243713,
+            "average_neutral": 0.038034163415431976
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 16647450,
+            "average_positive": 0.0052557336166501045,
+            "average_negative": 0.9874011874198914,
+            "average_neutral": 0.007343027275055647
+        },
+        {
+            "product_name": "Dell 14 inch",
+            "price": 28301648,
+            "average_positive": 0.9661149382591248,
+            "average_negative": 0.009130232036113739,
+            "average_neutral": 0.024754785001277924
+        }
+  ]
+ }
